@@ -76,8 +76,8 @@ body {
 
 .team-view {
     background-color: #FFFFFF;
-
 }
+
 .logo {
     font-family: "Raleway" sans-serif;
     font-weight:800;
@@ -87,6 +87,7 @@ body {
     text-transform: uppercase;
     color: #4d5ae5;
 }
+
 .link {
     text-decoration: none;
 }
@@ -98,6 +99,7 @@ span {
 .list {
     list-style: none;
 }
+
 .main-studio {
     font-weight: 500;
     font-size: 16px;
@@ -145,6 +147,7 @@ color: #404bbf;
     color: #4d5ae5;
     background-color: #F4F4FD;
 }
+
 .filter-buttor:focus, .filter-buttor:hover {
 background-color: #404bbf;
 color:#FFFFFF
@@ -164,7 +167,7 @@ color: #2e2f42;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    
+
 }
 .footer {
     background-color: #2e2f42;
