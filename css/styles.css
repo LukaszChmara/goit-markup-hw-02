@@ -1,0 +1,10 @@
+body {
+    font-family: Roboto;
+}
+
+.filters-list {
+    color: var(purple)
+}
+.filter-buttor:hover, .filter-buttor:focus {
+background-color: var(background-color);
+}
