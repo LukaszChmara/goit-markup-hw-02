@@ -1,5 +1,5 @@
 body {
-    font-family: "Roboto" sans-serif;
+    font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFFFFF;
 }
@@ -13,9 +13,9 @@ body {
 }
 
 .first-header-main {
-    font-size: 56px,
-    line-height: 1.07;
+    font-size: 56px;
     text-align: center;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     color: #ffffff;
 }
@@ -79,11 +79,11 @@ body {
 }
 
 .logo {
-    font-family: "Raleway" sans-serif;
+    font-family: "Raleway", sans-serif;
     font-weight:800;
-    font: size 18px;
-    line-height: 1.17
-    letter-spacing 0.03em;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
 }
@@ -107,31 +107,32 @@ span {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
+
 .main-studio:hover, main-studio:focus {
      color: #404bbf;
 }
 
 .address {
-font-tyle: normal:var(--brand-color)
+  font-style: normal
 }
 
 .mail-to {
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.02em
+    letter-spacing: 0.02em;
     color: #434455;
 
 }
 
 .mail-to:hover, mail-to:focus {
 color: #404bbf;
-
 }
+
 .tel-to {
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.02em color: #434455;
-
+    letter-spacing: 0.02em; 
+    color: #434455;
 }
 
 .tel-to:hover,mail-to:focus {
@@ -139,7 +140,7 @@ color: #404bbf;
 }
 
 .filter-button {
-    font-family: "Roboto" sans-serif;
+    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -150,7 +151,7 @@ color: #404bbf;
 
 .filter-buttor:focus, .filter-buttor:hover {
 background-color: #404bbf;
-color:#FFFFFF
+color:#FFFFFF;
 cursor: pointer;
 }
 
