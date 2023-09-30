@@ -1,4 +1,4 @@
-body {
+.body {
     font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFFFFF;
@@ -92,7 +92,11 @@ body {
     text-decoration: none;
 }
 
-span {
+.address {
+    font-style: normal;
+
+}
+.span {
     color: #2e2f42;
 }
 
@@ -139,6 +143,9 @@ color: #404bbf;
     color: #404bbf;
 }
 
+.section.one {
+    background-color: #2e2f42;
+}
 .filter-button {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
