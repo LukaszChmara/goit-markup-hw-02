@@ -111,15 +111,15 @@ body {
     text-decoration: none;
 }
 
-.adr-1 {
+.header_adr-1 {
     font-style: normal;
 }
 
-.idontknow-1 {
+.span-container-1 {
     color: var(--dark);
 }
 
-.idontknow-2 {
+.span-container-2 {
     color: var(--default-buttons-background);
 }
 
@@ -143,18 +143,18 @@ body {
 color: var(--pressed-state);
 }
 
-.mail-to {
+.mail-too {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--text);
 }
 
-.mail-to:hover { 
+.mail-too:hover { 
      color: var(--pressed-state);
 }
 
-.mail-to:focus {
+.mail-too:focus {
      color: var(--pressed-state);
 }
 
