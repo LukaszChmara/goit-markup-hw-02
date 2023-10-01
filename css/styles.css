@@ -111,15 +111,15 @@ body {
     text-decoration: none;
 }
 
-.send-1 {
+.heart {
     font-style: normal;
 }
 
-.division-1 {
+.bob-1 {
     color: var(--dark);
 }
 
-.division-2 {
+.bob-2 {
     color: var(--default-buttons-background);
 }
 
@@ -154,8 +154,12 @@ color: var(--pressed-state);
     color: var(--text);
 }
 
-.mail-to:hover, mail-to:focus {
-    color: var(--pressed-state);
+.mail-to:hover { 
+     color: var(--pressed-state);
+}
+
+.mail-to:focus {
+    color: var(--pressed-state)
 }
 
 .tel-to {
@@ -165,8 +169,12 @@ color: var(--pressed-state);
     color: var(--text);
 }
 
-.tel-to:hover,mail-to:focus {
-    color: var(--pressed-state);
+.tel-to:hover {
+   color: var(--pressed-state);
+}
+
+.tel-to:focus {
+   color: var(--pressed-state);
 }
 
 .section-one {
