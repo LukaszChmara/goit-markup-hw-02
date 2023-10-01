@@ -176,13 +176,13 @@ color: var(--pressed-state);
 }
 
 .filter-button:hover {
-    background-color: var(--background-color);
+    background-color: var(--pressed-state);
     color: var(--background-color);
 }
 
 .filter-button:focus {
    background-color: var(--pressed-state);
-   color: var(--pressed-state);
+   color: var(--background-color);
 }
 
 .filter-button:focus {
