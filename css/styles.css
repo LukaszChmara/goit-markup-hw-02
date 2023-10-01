@@ -111,15 +111,15 @@ body {
     text-decoration: none;
 }
 
-.heart_1 {
+.heart-attack_1 {
     font-style: normal;
 }
 
-.pause_1 {
+.idontknow-1 {
     color: var(--dark);
 }
 
-.pause_2 {
+.idontknow-2 {
     color: var(--default-buttons-background);
 }
 
@@ -141,10 +141,6 @@ body {
 
 .main-studio:focus {
 color: var(--pressed-state);
-}
-
-.address {
-  font-style: normal;
 }
 
 .mail-to {
