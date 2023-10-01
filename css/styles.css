@@ -111,8 +111,9 @@ body {
     font-style: normal;
 
 }
+
 .span {
-    color: var(--dark);
+    color: var(--default-buttons-background)
 }
 
 .list {
@@ -127,8 +128,12 @@ body {
     color: var(--dark);
 }
 
-.main-studio:hover, main-studio:focus {
+.main-studio:hover {
      color: var(--pressed-state);
+}
+
+.main-studio:focus {
+color: var(--pressed-state);
 }
 
 .address {
@@ -172,11 +177,11 @@ body {
 
 .filter-button:hover {
     background-color: var(--background-color);
-    color: var(--pressed-state)
+    color: var(--background-color)
 }
 
 .filter-button:focus {
-   background-color: var(--background-color);
+   background-color: var(--pressed-state)
    color: var(--pressed-state);
 }
 
