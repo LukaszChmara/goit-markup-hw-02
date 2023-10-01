@@ -54,7 +54,11 @@ body {
     color: var(--background-color);
 }
 
-.main-button:hover, main-button:focus {
+.main-button:hover {
+    background-color: var(--pressed-state);
+}
+
+.main-button:focus {
     background-color: var(--pressed-state);
 }
 
@@ -107,15 +111,15 @@ body {
     text-decoration: none;
 }
 
-.address-1 {
+.send-1 {
     font-style: normal;
 }
 
-.span-1 {
+.division-1 {
     color: var(--dark);
 }
 
-.span-2 {
+.division-2 {
     color: var(--default-buttons-background);
 }
 
