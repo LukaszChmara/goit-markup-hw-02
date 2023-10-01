@@ -12,7 +12,7 @@
 .body {
     font-family: 'Roboto', sans-serif;
     color: var(--text-color);
-    background-color: var(#FFFFFF);
+    background-color: var(--background-color);
 }
 
 .logo {
@@ -34,7 +34,7 @@
     text-align: center;
     line-height: 1.07;
     letter-spacing: 0.02em;
-    color: #ffffff;
+    color: var(--background-color)
 }
 
 .main-button {
@@ -44,7 +44,7 @@
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    color: #ffffff;
+    color: var(--background-color)
 
 }
 
@@ -53,11 +53,9 @@
 }
 
 .main-button:focus {
-    {
             cursor: pointer;
-        }
-
 }
+
 .list-point {
     font-weight: 500;
     font-size: 20px;
@@ -150,7 +148,7 @@
 }
 
 .tel-to:hover,mail-to:focus {
-    color: #404bbf;
+    color: var(--link-hover);
 }
 
 .section-one {
@@ -172,13 +170,12 @@
     cursor: pointer;
 }
 
-.filter-button:focus, {
+.filter-button:focus {
    background-color: #404bbf;
    color: var(--background-color);
 }
 
-.filter-button:focus 
-        {
+.filter-button:focus {
         cursor: pointer;
     }
 
