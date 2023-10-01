@@ -115,11 +115,11 @@ body {
     font-style: normal;
 }
 
-.bob_1 {
+.pause_1 {
     color: var(--dark);
 }
 
-.bob_2 {
+.pause_2 {
     color: var(--default-buttons-background);
 }
 
@@ -159,22 +159,7 @@ color: var(--pressed-state);
 }
 
 .mail-to:focus {
-    color: var(--pressed-state);
-}
-
-.tel-to {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em; 
-    color: var(--text);
-}
-
-.tel-to:hover {
-   color: var(--pressed-state);
-}
-
-.tel-to:focus {
-   color: var(--pressed-state);
+     color: var(--pressed-state);
 }
 
 .section-one {
