@@ -6,6 +6,13 @@
 
 :root {
     --brand-color: #4D5AE5;
+    --background-color: #FFFFFF;
+    --default-header-color: #2e2f42;
+    --default-footer-color: #f4f4fd;
+    --default-buttons-text: #4d5ae5;
+    --default-buttons-background: #f4f4fd;
+    --link-hover: #404bbf;
+    --text-color: #434455;
 }
 
 .first-header {
