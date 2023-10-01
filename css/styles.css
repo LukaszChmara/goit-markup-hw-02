@@ -115,11 +115,11 @@ body {
     font-style: normal;
 }
 
-.span-container-1 {
+.spn-1 {
     color: var(--dark);
 }
 
-.span-container-2 {
+.spn-2 {
     color: var(--default-buttons-background);
 }
 
