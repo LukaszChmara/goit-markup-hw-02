@@ -9,7 +9,7 @@
     --text-color: #434455;
 }
 
-.body {
+body {
     font-family: 'Roboto', sans-serif;
     color: var(--text-color);
     background-color: var(--background-color);
@@ -81,7 +81,7 @@
 }
 
 .section-four {
-    background-color: var(--default-footer-color);
+    background-color: var(--default-footer-color;)
 }
 
 .our-team {
