@@ -107,13 +107,13 @@ body {
     text-decoration: none;
 }
 
-.address {
+.address-1 {
     font-style: normal;
 
 }
 
-.span {
-    color: var(--default-buttons-background)
+.span-1 {
+    color: var(--dark);
 }
 
 .list {
@@ -177,11 +177,11 @@ color: var(--pressed-state);
 
 .filter-button:hover {
     background-color: var(--background-color);
-    color: var(--background-color)
+    color: var(--background-color);
 }
 
 .filter-button:focus {
-   background-color: var(--pressed-state)
+   background-color: var(--pressed-state);
    color: var(--pressed-state);
 }
 
