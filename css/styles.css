@@ -111,15 +111,15 @@ body {
     text-decoration: none;
 }
 
-.heart {
+.heart_1 {
     font-style: normal;
 }
 
-.bob-1 {
+.bob_1 {
     color: var(--dark);
 }
 
-.bob-2 {
+.bob_2 {
     color: var(--default-buttons-background);
 }
 
@@ -159,7 +159,7 @@ color: var(--pressed-state);
 }
 
 .mail-to:focus {
-    color: var(--pressed-state)
+    color: var(--pressed-state);
 }
 
 .tel-to {
