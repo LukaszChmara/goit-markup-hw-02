@@ -116,6 +116,10 @@ body {
     color: var(--dark);
 }
 
+.span-2 {
+    color: var(--default-buttons-background);
+}
+
 .list {
     list-style: none;
 }
