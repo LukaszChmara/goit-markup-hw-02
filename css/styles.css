@@ -143,18 +143,18 @@ body {
 color: var(--pressed-state);
 }
 
-.mail-too {
+.mail-to {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--text);
 }
 
-.mail-too:hover { 
+.mail-to:hover { 
      color: var(--pressed-state);
 }
 
-.mail-too:focus {
+.mail-to:focus {
      color: var(--pressed-state);
 }
 
